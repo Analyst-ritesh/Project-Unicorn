@@ -10,6 +10,5 @@ Among the industries, Fintech, internet software and services, and E-commerce ha
 
 In terms of geographical distribution, North America dominates the unicorn landscape, accounting for 54.8% of the total unicorns. Asia follows closely behind with 28.89% of the unicorns, highlighting the region's rapid growth and emergence of successful startups.
 
-Analyzing the area chart, we can observe a clear trend in the entry of new unicorns over the years. Starting from 2016, there has been a steady increase in the number of unicorns, which skyrocketed in the years 2020 and 2021. This indicates a significant surge in entrepreneurial activity and investment in innovative startups during this period.
 
 Overall, the unicorn visual reflects the remarkable growth and impact of the startup ecosystem, particularly in the Fintech, internet software and services, and E-commerce industries. The dominance of North America and the rising influence of Asia in the unicorn space indicate the evolving dynamics of the global startup landscape.
